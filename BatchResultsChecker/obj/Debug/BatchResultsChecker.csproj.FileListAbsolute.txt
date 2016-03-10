@@ -1,0 +1,6 @@
+c:\users\aalazzawi\documents\visual studio 2015\Projects\BatchResultsChecker\BatchResultsChecker\bin\Debug\BatchResultsChecker.exe.config
+c:\users\aalazzawi\documents\visual studio 2015\Projects\BatchResultsChecker\BatchResultsChecker\bin\Debug\BatchResultsChecker.exe
+c:\users\aalazzawi\documents\visual studio 2015\Projects\BatchResultsChecker\BatchResultsChecker\bin\Debug\BatchResultsChecker.pdb
+c:\users\aalazzawi\documents\visual studio 2015\Projects\BatchResultsChecker\BatchResultsChecker\obj\Debug\BatchResultsChecker.csprojResolveAssemblyReference.cache
+c:\users\aalazzawi\documents\visual studio 2015\Projects\BatchResultsChecker\BatchResultsChecker\obj\Debug\BatchResultsChecker.exe
+c:\users\aalazzawi\documents\visual studio 2015\Projects\BatchResultsChecker\BatchResultsChecker\obj\Debug\BatchResultsChecker.pdb
